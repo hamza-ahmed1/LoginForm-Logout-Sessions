@@ -16,12 +16,32 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\asp.net empty topics\LoginForm+Logout+Sessions\LoginForm+Logout+Sessions
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/asp.net empty topics/LoginForm+Logout+Sessions/LoginForm+Logout+Sessions/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/asp.net empty topics/LoginForm+Logout+Sessions/LoginForm+Logout+Sessions/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/asp.net empty topics/LoginForm+Logout+Sessions/LoginForm+Logout+Sessions/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp.net empty topics/LoginForm+Logout+Sessions/LoginForm+Logout+Sessions/Views/Home/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/asp.net empty topics/LoginForm+Logout+Sessions/LoginForm+Logout+Sessions/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp.net empty topics/LoginForm+Logout+Sessions/LoginForm+Logout+Sessions/Views/Home/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp.net empty topics/LoginForm+Logout+Sessions/LoginForm+Logout+Sessions/Views/Home/UserDashBoard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVc2VyRGFzaEJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/asp.net empty topics/LoginForm+Logout+Sessions/LoginForm+Logout+Sessions/Views/Shared/Error.cshtml]
